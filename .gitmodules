@@ -1,24 +1,24 @@
 [submodule "Packages/Framework/TYPO3.FLOW3"]
 	path = Packages/Framework/TYPO3.FLOW3
-	url = git@github.com:crashd0wn/FLOW3-X-TYPO3.FLOW3.git
+	url = git@github.com:arbyte/FLOW3-X-TYPO3.FLOW3.git
 [submodule "Packages/Framework/TYPO3.Fluid"]
 	path = Packages/Framework/TYPO3.Fluid
-	url = git@github.com:crashd0wn/FLOW3-X-TYPO3.Fluid.git
+	url = git@github.com:arbyte/FLOW3-X-TYPO3.Fluid.git
 [submodule "Packages/Framework/TYPO3.Kickstart"]
 	path = Packages/Framework/TYPO3.Kickstart
-	url = git@github.com:crashd0wn/FLOW3-X-TYPO3.Kickstart.git
+	url = git@github.com:arbyte/FLOW3-X-TYPO3.Kickstart.git
 [submodule "Packages/Framework/TYPO3.Party"]
 	path = Packages/Framework/TYPO3.Party
-	url = git@github.com:crashd0wn/FLOW3-X-TYPO3.Party.git
+	url = git@github.com:arbyte/FLOW3-X-TYPO3.Party.git
 [submodule "Packages/Framework/TYPO3.Welcome"]
 	path = Packages/Framework/TYPO3.Welcome
-	url = git@github.com:crashd0wn/FLOW3-X-TYPO3.Welcome.git
+	url = git@github.com:arbyte/FLOW3-X-TYPO3.Welcome.git
 [submodule "Build/Common"]
 	path = Build/Common
-	url = git@github.com:crashd0wn/FLOW3-X-BuildEssentials.git
+	url = git@github.com:arbyte/FLOW3-X-BuildEssentials.git
 [submodule "Packages/Framework/Doctrine"]
 	path = Packages/Framework/Doctrine
-	url = git@github.com:crashd0wn/FLOW3-X-Doctrine.git
+	url = git@github.com:arbyte/FLOW3-X-Doctrine.git
 [submodule "Packages/Framework/Symfony.Component.Yaml"]
 	path = Packages/Framework/Symfony.Component.Yaml
-	url = git@github.com:crashd0wn/FLOW3-X-Symfony.Component.Yaml.git
+	url = git@github.com:arbyte/FLOW3-X-Symfony.Component.Yaml.git
